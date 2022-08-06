@@ -2,7 +2,11 @@ import requests
 import pandas as pd
 import config
 import os
-current_dir = os.getcwd()
+from scrapy.crawler import CrawlerProcess
+from mmonlinecrawling.mmonlinecrawling.spiders.mmonline_spider import mmSpider
+#from mmonlinecrawling.spiders.test_spider import SpiderName
+current_dir =os.getcwd()
+
 
 def main(store_id=196):
     s = requests.Session()
@@ -25,6 +29,12 @@ def main(store_id=196):
         product_data.to_csv(os.path.join(current_dir,f'coop_product_data_{store_id}.csv'),encoding='utf-8-sig')
     else:
         product_data.to_csv(os.path.join(config.configs['export_path'],f'coop_product_data_{store_id}.csv'),encoding='utf-8-sig')
+
+
+def main_mmonline():
+    process = CrawlerProcess()
+    process.crawl(mmSpider)
+    process.start()
 
 if __name__=='__main__':
     main(196)
