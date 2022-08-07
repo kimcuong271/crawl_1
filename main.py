@@ -4,6 +4,7 @@ import config
 import os
 from scrapy.crawler import CrawlerProcess
 from mmonlinecrawling.mmonlinecrawling.spiders.mmonline_spider import mmSpider
+import time
 #from mmonlinecrawling.spiders.test_spider import SpiderName
 current_dir =os.getcwd()
 
@@ -35,6 +36,31 @@ def main_mmonline():
     process = CrawlerProcess()
     process.crawl(mmSpider)
     process.start()
+
+def main_bigc_crawler(store_id):
+    category_info = pd.read_csv('bigc_category_data.csv')
+    cate_list = category_info['id']
+    product = pd.DataFrame()
+    for cate in cate_list:
+        start_page = 1
+        pay_load = {"category":int(cate),"hourDelivery":0,"page":start_page,"store":int(store_id)}
+        resp = requests.post('https://dev-mobileapp.bigc.vn/api/order2/listProduct?apiclientid=3693146&token=a09fcbfe4ec1edb8f3b2214076a3093d&sign=1f664a32aa64aa3f66fa44da534ef139',headers=headers,data = pay_load)
+        df_tmp = pd.DataFrame(resp.json()['products'])
+        last_page = resp.json()['pagination']['total_pages']
+        product = pd.concat([product,df_tmp])
+        if start_page < last_page:
+            start_page = start_page+1
+        try:
+            for next_page in range(start_page,last_page+1,1):
+                pay_load = {"category":int(cate),"hourDelivery":0,"page":start_page,"store":int(store_id)}
+                resp = requests.post('https://dev-mobileapp.bigc.vn/api/order2/listProduct?apiclientid=3693146&token=a09fcbfe4ec1edb8f3b2214076a3093d&sign=1f664a32aa64aa3f66fa44da534ef139',headers=headers,data = pay_load)
+                df_tmp = pd.DataFrame(resp.json()['products'])
+                product = pd.concat([product,df_tmp])
+        except:
+            print(f'error on {cate}, payload: {pay_load}')
+            time.sleep(5)
+            continue
+    product.to_csv('big_product.csv',encoding='utf-8-sig')
 
 if __name__=='__main__':
     main(196)

@@ -1,0 +1,191 @@
+,storeID,regionID,name,name_tracking,site_code,description,openTime,closeTime,latitude,longtitude,image,address,phoneNumber,activities,services,hotline,scanCard,statusSaleOnline,messageOffSaleOnline,shippingConditionShort,shippingConditionLong,freeshipTotalAmount,freeshipDistance,deliveryLimited
+0,3,6,Big C LONG BIÊN,Big C LONG BIEN,116,,08:00,22:00,21.05068,105.89338,https://dev-mobileapp.bigc.vn/files/images/store/big-c-long-bien.jpg,"số 7-9 Nguyễn Văn Linh, Tầng Hầm TTTM Savico Megamall, Quận Long Biên, TP. Hà Nội",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,15000
+1,4,6,Big C MÊ LINH,Big C ME LINH,119,,08:00,22:00,21.18647,105.78276,https://dev-mobileapp.bigc.vn/files/images/store/bigc-me-linh.jpg,"Tầng 1, TTTM Mê Linh Plaza, KM8 Cao Tốc Bắc Thăng Long - Nội Bài, Phường Quang Minh, Quận Mê Linh, TP. Hà Nội",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,20000
+2,5,6,Big C THĂNG LONG,Big C THANG LONG,104,,08:00,22:00,21.007204,105.793172,https://dev-mobileapp.bigc.vn/files/images/store/big-c-thanh-long.jpg,"Số 222 Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, TP. Hà Nội",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,15000
+3,7,4,GO! BẮC GIANG,GO! BAC GIANG,131,,08:00,22:00,21.26703,106.20841,https://dev-mobileapp.bigc.vn/files/stores/stores-banners/go-bg-v2.png,"Xã Tân Tiến, Thành Phố Bắc Giang, Tỉnh Bắc Giang",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+4,8,4,GO! HẠ LONG,GO! HA LONG,128,,08:00,22:00,20.9419,107.11067,https://dev-mobileapp.bigc.vn/files/stores/go-halong.png,"Cột 5, Phường Hồng Hải, Thành phố Hạ Long, Tỉnh Quảng Ninh",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+5,9,4,Big C HẢI DƯƠNG,Big C HAI DUONG,117,,08:00,22:00,20.94612,106.34576,https://dev-mobileapp.bigc.vn/files/images/store/big-c-hai-duong.jpg,"Khu TTTM Ngọc Châu, Phường Nhị Châu, TP. Hải Dương, Tỉnh Hải Dương",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+6,10,4,GO! HẢI PHÒNG,GO! HAI PHONG,106,,08:00,22:00,20.84493,106.70762,https://dev-mobileapp.bigc.vn/files/images/store/big-c-hai-phong.jpg,"Lô 1/20, Khu Đô Thị Mới Ngã Năm, Sân Bay Cát Bi, Quận Ngô Quyền, TP. Hải Phòng (Ngã Tư Lê Hồng Phong - Nguyễn Bỉnh Khiêm)",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+7,11,4,GO! NAM ĐỊNH,GO! NAM DINH,114,,08:00,22:00,20.43053,106.16501,https://dev-mobileapp.bigc.vn/files/images/store/go-nam-dinh.png,"Xã Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+8,12,4,GO! NINH BÌNH,GO! NINH BINH,125,,08:00,22:00,20.24265,106.00478,https://dev-mobileapp.bigc.vn/files/images/store/go-ninh-binh.jpg,"Số 10, Trần Nhân Tông, Ninh Phúc, tỉnh Ninh Bình",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+9,13,4,Big C THANH HÓA,Big C THANH HOA,118,,08:00,22:00,19.8059,105.80275,https://dev-mobileapp.bigc.vn/files/images/store/big-c-thanh-hoa.jpg,"Xã Đông Hải, TP. Thanh Hóa, Tỉnh Thanh Hóa",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+10,14,4,Big C VIỆT TRÌ,Big C VIET TRI,124,,08:00,22:00,21.306945,105.431971,https://dev-mobileapp.bigc.vn/files/images/store/big-c-viet-tri.jpg,"Đường Nguyễn Tất Thành, Phường Thanh Miếu, TP. Việt Trì, Tỉnh Phú Thọ",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+11,15,4,GO! VĨNH PHÚC,GO! VINH PHUC,113,,08:00,22:00,21.29412,105.62968,https://dev-mobileapp.bigc.vn/files/stores/go-vinhphuc.png,"Phường Khai Quang, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+12,16,2,GO! ĐÀ NẴNG,GO! DA NANG,107,,08:00,22:00,16.06674,108.21352,https://dev-mobileapp.bigc.vn/files/images/store/go-danang.jpg,"Khu thương Mại Vĩnh Trung, 255-257 Hùng Vương, Quận Thanh Khê, TP. Đà Nẵng",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,20000
+13,17,2,GO! Huế,GO! Huế,109,,08:00,22:00,16.46028,107.59941,https://dev-mobileapp.bigc.vn/files/images/store/go-hue.png,"174 Bà Triệu, Phường Phú Hội, TP. Huế, Tỉnh Thừa Thiên Huế",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+14,18,2,GO! NHA TRANG,GO! NHA TRANG,130,,08:00,22:00,12.25625,109.17026,https://dev-mobileapp.bigc.vn/files/store/nha-trang-store.jpg,"Lô số 4, đường 19/5, Khu đô thị Vĩnh Điềm Trung, Xã Vĩnh Hiệp, TP Nha Trang, Tỉnh Khánh Hòa",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+15,19,2,GO! QUY NHƠN,GO! QUY NHƠN,129,,08:00,22:00,13.754166662693,109.207945335656,https://dev-mobileapp.bigc.vn/files/images/store/go-quy-nho.png,"TTTM Kim Cúc, Khu đô thị Xanh Vũng Chua, Phường Ghềnh Ráng, TP. Quy Nhơn, Tỉnh Bình Định",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+16,20,1,Big C VINH,Big C VINH,112,,08:00,22:00,18.66643,105.67437,https://dev-mobileapp.bigc.vn/files/images/store2/big-c-vinh.jpg,"Số 2, Đường Quang Trung, TP. Vinh, Tỉnh Nghệ An",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+17,21,7,GO! AN LẠC,GO! AN LAC,102,,08:00,22:00,10.7305782,106.6042399,https://dev-mobileapp.bigc.vn/files/stores/stores-banners/stores-banners-2020/anlac-new.jpg,"1231 Quốc lộ 1A, Khu Phố 5, Phường Bình Trị Đông B, Quận Bình Tân, TP. Hồ Chí Minh ( Gần Vòng Xoay An Lạc)",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,20000
+18,24,7,GO! GÒ VẤP,GO! GO VAP,108,,08:00,22:00,10.82572,106.67973,https://dev-mobileapp.bigc.vn/files/images/store/big-c-go-vap.jpg,"792 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, TP. Hồ Chí Minh( Ngã sáu Gò Vấp)",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,20000
+19,25,7,Big C MIỀN ĐÔNG,Big C MIEN DONG,103,,08:00,22:00,10.77851,106.665584,https://dev-mobileapp.bigc.vn/files/images/store2/big-c-mien-dong.jpg,"268 Tô Hiến Thành, Phường 15, Quận 10, TP. Hồ Chí Minh ( Ngã ba Tô Hiến Thành - Sư Vạn Hạnh)",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đđ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5.000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5.000đ.",300000,7000,20000
+20,26,7,GO! NGUYỄN THỊ THẬP,GO! NGUYEN THI THAP,133,,08:00,22:00,10.737122,106.725215,https://dev-mobileapp.bigc.vn/files/images/store/big-c-nguyen-thi-thap.jpg,"Lô A, Khu Dân Cư Cityland, 99  Nguyễn Thị Thập, Phường Tân Phú, Quận 7, TP. Hồ Chí Minh",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,20000
+21,27,7,GO! PHÚ THẠNH,GO! PHU THANH,111,,08:00,22:00,10.78072,106.63163,https://dev-mobileapp.bigc.vn/files/stores/go-ph-th-nh.png,"212 Thoại Ngọc Hầu, Phường Phú Thạnh, Quận Tân Phú, TP. Hồ Chí Minh",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,20000
+22,29,7,Big C TRƯỜNG CHINH,Big C TRUONG CHINH,122,,08:00,22:00,10.80687,106.63468,https://dev-mobileapp.bigc.vn/files/stores/stores-banners/stores-banners-2020/truongchinh-new.jpg,"1/1 Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, TP. Hồ Chí Minh",19001880,,,,0,1,,Miễn phí giao hàng trong bán kính 7km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 7 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 7 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 7km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,7000,20000
+23,30,5,Big C BÌNH DƯƠNG,Big C BINH DUONG,121,,08:00,22:00,10.98727,106.66435,https://dev-mobileapp.bigc.vn/files/images/store/big-c-bi-nh-du-o-ng.jpg,"Phường Hiệp Thành, TP. Thủ Dầu Một, Tỉnh Bình Dương",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+24,31,5,GO! CẦN THƠ,GO! CAN THO,120,,08:00,22:00,10.01391,105.78459,https://dev-mobileapp.bigc.vn/files/stores/go-can-tho.png,"Lô số 1, Khu Dân Cư Hưng Phú 1, Phường Hưng Phú, Quận Cái Răng, TP. Cần Thơ",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+25,32,2,GO! ĐÀ LẠT,GO! DA LAT,126,,07:30,22:00,11.93861,108.44421,https://dev-mobileapp.bigc.vn/files/images/store/go-dalat-2.png,"Quảng trường trung tâm Đà Lạt, Đường Trần Quốc Toản, Phường 1, Thành Phố Đà Lạt",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+26,33,5,GO! DĨ AN,GO! DĨ AN,123,,08:00,22:00,10.88946,106.77643,https://dev-mobileapp.bigc.vn/files/store/go-dian.jpg,"Phường Đông Hòa, Thị Xã Dĩ An, Tỉnh Bình Dương",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+27,34,5,Big C ĐỒNG NAI,Big C DONG NAI,101,,08:00,22:00,10.9055,106.85061,https://dev-mobileapp.bigc.vn/files/images/store/big-c-dong-nai-1.jpg,"Số 833, Xa lộ Hà Nội, Phường Long Bình Tân, Thành Phố Biên Hòa, Tỉnh Đồng Nai ( Ngã 4 Vũng Tàu)",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+28,35,5,Big C TÂN HIỆP,Big C TAN HIEP,115,,08:00,22:00,10.96641,106.85478,https://dev-mobileapp.bigc.vn/files/stores/stores-banners/stores-banners-2020/tanhiep-new.jpg,"1135 đường Nguyễn Ái Quốc, Khu phố 2, Phường Tân Hiệp, TP. Biên Hòa, Tỉnh Đồng Nai (Ngã tư Tân Phong)",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+29,36,5,GO! MỸ THO,GO! MỸ THO,137,,08:00,22:00,10.35178,106.33907,https://dev-mobileapp.bigc.vn/files/stores/stores-banners/my-tho.jpg,"545 đường Lê Văn Phẩm, Phường 5, Thành phố Mỹ Tho, Tỉnh Tiền Giang, Việt Nam",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+30,38,5,GO! TRÀ VINH,GO! TRÀ VINH,140,,08:00,22:00,9.92342,106.32814,https://dev-mobileapp.bigc.vn/files/stores/stores-banners/all-template-big-c-go-16.png,"Trung Tâm Thương Mại và Siêu Thị Trà Vinh, đường Võ Nguyên Giáp, P7, Tp. Trà Vinh, tỉnh Trà Vinh ",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+31,39,2,GO! Buôn Mê Thuột,GO! Buôn Mê Thuột,141,,08:00,22:00,12.68404,108.01797,https://dev-mobileapp.bigc.vn/files/stores/stores-banners/stores-banners-2020/go-bmt.png,"Trung tâm thương mại Buôn Mê Thuột, góc đường Nguyễn Thị Định và đường vành đai phía Tây, phường Thành Nhất, thành phố Buôn Mê Thuột, tỉnh Đắk Lắk",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+32,40,2,GO! Quảng Ngãi,GO! Quảng Ngãi,139,,08:00,22:00,15.09971,108.8181,https://dev-mobileapp.bigc.vn/files/stores/stores-banners/go-qn.png,"Trung tâm thương mại và Đại Siêu thị GO!Hùng Cường, đường Lý Thường Kiệt, phường Nghĩa Chánh, Thành phố Quảng Ngãi",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+33,41,5,GO! BẾN TRE,GO! BEN TRE,142,,08:00,22:00,10.254418,106.359885,https://dev-mobileapp.bigc.vn/files/stores/go-bentre.png,"Tầng Trệt, Trung tâm thương mại GO! Bến Tre, Ấp 1, đường Võ Nguyên Giáp (Quốc lộ 60), Xã Sơn Đông, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam ",19001880,,,,0,1,,,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10 km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10 km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+34,42,4,GO! THÁI NGUYÊN,GO! THÁI NGUYÊN,144,,08:00,22:00,21.57162,105.83437,https://dev-mobileapp.bigc.vn/files/banner/2021/image-2021-03-03-11-20-29.png,"Khu dân cư số 1, Đường Việt Bắc, Phường Tân Lập, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",1900 1880,,,,0,1,,Miễn phí giao hàng trong bán kính 10km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+35,43,3,GO! BÀ RỊA,GO! BÀ RỊA,143,,08:00,22:00,10.49173,107.16885,https://dev-mobileapp.bigc.vn/files/banner/2021/go-ba-ria.png,"Tầng 1 TTTM GO! Bà Rịa, Số 2A đường Nguyễn Đình Chiểu, KP1,   P. Phước Hiệp, TP. Bà Rịa, Tỉnh Bà Rịa-Vũng Tàu, Việt Nam",1900 1880,,,,1,1,,Miễn phí giao hàng trong bán kính 10km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+36,44,1,GO! Thái Bình,GO! Thái Bình,145,,08:00,22:00,20.439983599529935,106.32163356937689,https://dev-mobileapp.bigc.vn/files/images/store/go-thai-binh.png,"TTTM GO! Thái Bình, đường Trần Thái Tông, Tổ 1, Phường Phú Khánh, TP Thái Bình, Tỉnh Thái Bình ",0227 730 0668,,,,0,1,,Miễn phí giao hàng trong bán kính 10km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
+37,45,6,GO! Lào Cai,GO! Lào Cai,146,,08:00,22:00,22.4344937472042,104.01587247848511,https://dev-mobileapp.bigc.vn/files/store/go-lao-cai.png,"Km6+600, Thửa đất HH1 thuộc tiểu khu đô thị số 13, Đường Trần Hưng Đạo, Phường Bắc Lệnh, Thành phố Lào Cai, Tỉnh Lào Cai, Việt Nam",,,,,0,1,,Miễn phí giao hàng trong bán kính 10km,"1. GO! &amp; Big C MIỄN PH&Iacute; VẬN CHUYỂN đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển trong b&aacute;n k&iacute;nh 10km.<br />
+<br />
+2. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị từ 300.000đ trở l&ecirc;n v&agrave; khoảng c&aacute;ch vận chuyển tr&ecirc;n 10km, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km vượt qu&aacute; 10km nh&acirc;n với 5000đ.<br />
+<br />
+3. Đối với c&aacute;c đơn h&agrave;ng c&oacute; gi&aacute; trị dưới 300.000đ, ph&iacute; giao h&agrave;ng sẽ được t&iacute;nh bằng c&aacute;ch lấy số km nh&acirc;n với 5000đ.",300000,10000,20000
